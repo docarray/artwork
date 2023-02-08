@@ -1,4 +1,4 @@
-# DocArrary Related Logos and Artwork 
+# DocArray Related Logos and Artwork 
 In this repo, we provide a variety of logos in 2 standard formats (png/svg), 3 versions (horizontal, stacked and icon), and 3 colors variations (black, white and color). 
 
 
